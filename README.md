@@ -1,2 +1,2 @@
 # spestqnko-app
-Backend for a mobile focused web app for budgeting
+Front-end for a mobile focused web app for budgeting
